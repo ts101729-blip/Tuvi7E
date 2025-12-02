@@ -1,0 +1,17 @@
+/* Change the background of the entire visible page */
+body {
+    background-color:#f0ae35; /* Yellowy Orange */
+}
+
+/* Style for all paragraphs */
+p {
+    color: #5165e8;
+    font-size: 14px;
+    font-family: 'Berkshwire Swash', serif;
+}
+
+/* Style for the main heading */
+h1 {
+    text-align: center; /* Puts the heading in the middle */
+    border: 2px solid orange; /* Adds an orange border around the heading */
+    padding: 9px; /* Adds space inside the border */
